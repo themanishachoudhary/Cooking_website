@@ -1,0 +1,118 @@
+
+.myhead{
+    background-color:bisque;
+
+}
+.nav-link{
+    margin-left: 15px;
+
+}
+ /* .navbar-brand{
+    color: rgb(242, 55, 55);
+}  */
+ 
+
+.nav-item:hover{
+    background-color: red;
+}
+.left{
+    width: 100%;
+    height: 100vh;
+}
+.nav-item{
+    border-radius: 10px;
+}
+/* .img1{
+    height: max-content;
+    width: 9%;
+} */
+/* #mybutton{
+    background-color: rgb(106, 219, 71);
+    border-radius: 2px;
+    margin-top: auto;
+} */
+ /* .img1 img{
+    width: 60px;
+ } */
+footer input{
+    /* border-color: transparent; */
+    /* border-radius: 2px; */
+    /* width: 35%; */
+    height: 45px;
+}
+footer textarea{
+    /* background-color: bisque; */
+    /* border-color: transparent; */
+    /* border-radius: 2px; */
+    /* width: 35%; */
+    height: 200px;
+}
+.form-control{
+    background-color: bisque;
+}
+/* .cardimg{
+    /* position: relative;
+    overflow: hidden;
+    width: 90;
+    border-radius: 10px;
+    display: block; 
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+}
+.card1content{
+    position: absolute;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); 
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    padding: 20px;
+}
+.cardimg:hover .card1content {
+    opacity: 1;
+} */
+.main{
+    position: relative;
+    /* position: absolute; */
+    
+}
+.card1content{
+    position: absolute;
+    /* top: 60px; */
+    bottom: 60px;
+    left: 30px;
+    text-align: center;
+    /* overflow: hidden; */
+    /* transform: translate(-50%, -50%); */
+    /* text-align: center; */
+            /* color: white; */
+            opacity: 0;
+            
+            /* transition: top 0.5s ease-in-out, opacity 0.5s ease-in-out; */
+            /* background: rgba(0, 0, 0, 0.5); */
+
+}
+
+/* .main img{
+
+    /* opacity: 0.4; */
+    
+/* } */
+/* .main:hover .cardimg1 {
+    /* transform: scale(1.1); 
+    opacity: 0.3;
+}
+.main:hover .card1content{
+    opacity: 1;
+    
+} */ 
